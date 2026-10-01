@@ -5,12 +5,14 @@ My personal collection of [LeetCode](https://leetcode.com/) solutions written in
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-LeetCode-orange)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updating-brightgreen)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Hepsiba__Selvi-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Hepsiba_Selvi/)
 
 ## 📌 About
 
 - Practicing problem solving to strengthen DSA fundamentals and interview preparation
 - Solutions are written for clarity first, then optimized for time and space complexity
 - Updated regularly as I solve more problems
+- LeetCode profile: [Hepsiba_Selvi](https://leetcode.com/u/Hepsiba_Selvi/)
 
 ## 📂 Repository Structure
 
@@ -22,6 +24,10 @@ leetcode/
 │   └── 0003-longest-substring-without-repeating-characters.cpp
 ├── Hard/
 │   └── ...
+├── Database/        # MySQL problems
+│   └── ...
+├── Shell/           # Bash problems
+│   └── ...
 └── README.md
 ```
 
@@ -29,12 +35,17 @@ leetcode/
 
 ## 📊 Progress
 
-| Difficulty | Solved |
-|------------|--------|
-| Easy       | 0      |
-| Medium     | 0      |
-| Hard       | 0      |
-| **Total**  | **0**  |
+| Language | Problems Solved |
+|----------|-----------------|
+| C++      | 135             |
+| MySQL    | 18              |
+| Bash     | 2               |
+
+🏅 **Badges:** 50 Days Badge 2026 · 100 Days Badge 2026
+
+**Strongest topics:** Dynamic Programming, Divide and Conquer, Backtracking (advanced) · Math, Hash Table (intermediate) · Array, String, Two Pointers (fundamental)
+
+> Stats are from my [LeetCode profile](https://leetcode.com/u/Hepsiba_Selvi/) and will be refreshed as I keep solving.
 
 ## 📝 Solutions Index
 
@@ -46,6 +57,7 @@ leetcode/
 ## 🧩 Topics Covered
 
 - Arrays & Strings
+- Math
 - Hash Tables
 - Two Pointers & Sliding Window
 - Linked Lists
@@ -53,8 +65,10 @@ leetcode/
 - Trees & Graphs
 - Recursion & Backtracking
 - Dynamic Programming
+- Divide and Conquer
 - Sorting & Searching
 - Greedy Algorithms
+- SQL / Database queries (MySQL)
 
 ## 🚀 How to Run
 
@@ -108,6 +122,7 @@ This is a personal learning repo, but suggestions for cleaner or faster approach
 B.Tech AI & Data Science, Madras Institute of Technology, Anna University
 
 - GitHub: [@HepsibaMark](https://github.com/HepsibaMark)
+- LeetCode: [Hepsiba_Selvi](https://leetcode.com/u/Hepsiba_Selvi/)
 
 ---
 
